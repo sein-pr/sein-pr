@@ -1,6 +1,5 @@
-# Muwana Sein
-
-
+# Sein Muwana
+## Connect with me on my website: [https://seinmuwana.netlify.app/](url)
 # My Stats
 
 [![](https://raw.githubusercontent.com/sein-pr/sein-pr/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
